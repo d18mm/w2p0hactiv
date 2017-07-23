@@ -1,0 +1,23 @@
+'TUGAS 1'
+Tuliskan "angka pertama"
+Tuliskan "angka kedua"
+Hitung "angka pertama kali angka kedua"
+Simpan "Hasil Hitung"
+Tampilkan Hasil Hitung 
+
+'TUGAS 2'
+Tuliskan 'Kata yang akan dimasukan'
+IF Kata yang di Tuliskan adalah 'Saya Belajar JavaScript'
+Maka tuliskan 'Pasti Bisa'
+IF kata yang di Tuliskan tidak Sama dengan 'Saya Belajar JavaScript'
+Maka tidak di Tuliskan
+Simpan Hasil 
+Tampilkan Hasil
+
+'TUGAS 3'
+Tuliskan 'angka masukan'
+Simpan ‘angka masukan’
+Hitung 'deret angka yang habis dibagi 3 dari angka 1'
+Ulangi ‘deret angka jika tidak mencapai angka masukan’
+Simpan ‘Hasil Hitung’
+Tampilkan ‘hasil Hitung yang habis di bagi 3’
