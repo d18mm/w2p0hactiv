@@ -2,7 +2,7 @@
 w2phase0 hactiv8
 
 ## javascript 
-*array
-*function
-*if else
+###array
+###function
+###if else
 
