@@ -1,0 +1,8 @@
+#Pseudocode Appzodiak
+
+* buat variabel input dengan fungsi memasukan bulan kelahiran.
+* buat variabel bulan dengan nama bulan.
+* if input sama dengan bulan maka jalankan variabel tanggal.
+* if tanggal lebih dari 31 maka  tanggal yang dimasukan salah.
+* if tanggal dan bulan sama dengan zodiak maka tampilkan zodiak.
+* if tanggal dan bulan tidak sama dengan zodiak maka tampil input salah,refresh halaman untuk memulai kembali
